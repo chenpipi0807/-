@@ -2,6 +2,12 @@
 
 这是一个基于图像分析的卦象解读工具。它使用 Gradio 创建了一个简单的 Web 界面，允许用户上传图片并获得相应的卦象分析结果。
 
+
+![微信截图_20241021212553](https://github.com/user-attachments/assets/2badc883-5c27-441d-813c-d1c57351e04d)
+![微信截图_20241021212514](https://github.com/user-attachments/assets/41c6e558-93e6-472c-952e-e6a061b36390)
+![微信截图_20241021212611](https://github.com/user-attachments/assets/4046eedb-0efc-480f-be8c-919e93960544)
+
+
 ## 功能
 
 - 上传图片并自动分析其对应的卦象
